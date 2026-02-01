@@ -8,7 +8,7 @@ async function loadAndRender() {
 
   let members = [];
   try {
-    const res = await fetch('members.json', { cache: "no-store" });
+    const res = await fetch('./members.json', { cache: "no-store" });
     if (res.ok) members = await res.json();
   } catch (err) {
     console.warn('members.json not found:', err);
