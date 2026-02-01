@@ -1,0 +1,7 @@
+[
+  { "name": "عبود",  "image": "abood.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "Amin",  "image": "amin.jpg",    "nickname": "", "age": null, "location": "" },
+  { "name": "سهم",   "image": "saham.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "فلوبا", "image": "flouba.jpg",  "nickname": "", "age": null, "location": "" },
+  { "name": "boumeh", "image": "boumeh.jpg",  "nickname": "", "age": null, "location": "" }
+]
