@@ -1,0 +1,19 @@
+[
+  { "name": "عبادة البلبيسي", "image": "abada.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "عمر المغربي",     "image": "omar.jpg",    "nickname": "", "age": null, "location": "" },
+  { "name": "مانديلا",         "image": "mandela.jpg", "nickname": "", "age": null, "location": "" },
+  { "name": "كباريتي",         "image": "kabariti.jpg","nickname": "", "age": null, "location": "" },
+  { "name": "الصيني",          "image": "sini.jpg",    "nickname": "", "age": null, "location": "" },
+  { "name": "بهاء",            "image": "bahaa.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "أنس",             "image": "anas.jpg",    "nickname": "", "age": null, "location": "" },
+  { "name": "شوبكي",           "image": "shobaki.jpg", "nickname": "", "age": null, "location": "" },
+  { "name": "أمين",            "image": "amin.jpg",    "nickname": "", "age": null, "location": "" },
+  { "name": "kloub",           "image": "kloub.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "klashin",         "image": "klashin.jpg", "nickname": "", "age": null, "location": "" },
+  { "name": "malik",           "image": "malik.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "morhaf",          "image": "morhaf.jpg",  "nickname": "", "age": null, "location": "" },
+  { "name": "samir",           "image": "samir.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "عبود",            "image": "abood.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "سهم",             "image": "saham.jpg",   "nickname": "", "age": null, "location": "" },
+  { "name": "فلوبا",           "image": "flouba.jpg",  "nickname": "", "age": null, "location": "" }
+]
